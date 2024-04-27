@@ -43,7 +43,8 @@ The Credential Harvester Attack Method displays the following menu. In this menu
 
 It shows the following screen in which the ip address of the attacker need to be given which is the default value:
 
-![eth7 8](https://github.com/Rajeshanbu/creating-a-backdoor-with-SET/assets/118924713/a0bf8d3d-e3e4-497c-ad66-5a776b53dd14)
+![Uploading 324251581-9e47900b-3757-4fc2-b28e-e15a1f869e71.png…]()
+
 
 It shows the following screen in which the option Google can be selected:
 ![eth7 9](https://github.com/Rajeshanbu/creating-a-backdoor-with-SET/assets/118924713/5ad1161a-2790-415f-985e-018d89310407)
@@ -60,6 +61,7 @@ VirtualBox_Windows 7_16_04_2024_08_56_25
 SET logs the information regarding the Google credentials:
 
 
+![eth7 11](https://github.com/Rajeshanbu/creating-a-backdoor-with-SET/assets/118924713/816b9b56-d4a6-4fce-9c72-943596b91543)
 
 
 
