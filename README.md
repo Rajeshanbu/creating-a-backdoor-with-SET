@@ -43,7 +43,7 @@ The Credential Harvester Attack Method displays the following menu. In this menu
 
 It shows the following screen in which the ip address of the attacker need to be given which is the default value:
 
-![Uploading 324251581-9e47900b-3757-4fc2-b28e-e15a1f869e71.png…]()
+
 
 
 It shows the following screen in which the option Google can be selected:
