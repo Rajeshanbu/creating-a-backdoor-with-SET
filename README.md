@@ -48,8 +48,8 @@ It shows the following screen in which the ip address of the attacker need to be
 
 
 It shows the following screen in which the option Google can be selected:
-![eth7 9](https://github.com/Rajeshanbu/creating-a-backdoor-with-SET/assets/118924713/5ad1161a-2790-415f-985e-018d89310407)
 
+![Uploading def.png…]()
 
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
 ![eth7 10](https://github.com/Rajeshanbu/creating-a-backdoor-with-SET/assets/118924713/1f5305b5-9879-4af3-911c-d42d0992aeba)
