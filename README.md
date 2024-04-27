@@ -49,7 +49,7 @@ It shows the following screen in which the ip address of the attacker need to be
 
 It shows the following screen in which the option Google can be selected:
 
-![Uploading 324251682-7cbd8afc-5e94-4071-a50c-5e4cf95598c7.png…]()
+![Uploading mii.png…]()
 
 
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
